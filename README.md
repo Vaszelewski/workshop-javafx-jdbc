@@ -4,8 +4,7 @@
 
 Description:
 
-Desktop application with JavaFX and MySQL database with JDBC
-System with CRUD for Sellers and Departments in a fictional store.
+Desktop application with JavaFX, MySQL database and JDBC with CRUD for Sellers and Departments in a fictional store.
 
 IDE: Eclipse IDE
 
